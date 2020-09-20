@@ -20,5 +20,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          ping -c 6000 127.0.0.1
+          ls -l
           echo test, and deploy your project.
